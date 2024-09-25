@@ -2,4 +2,6 @@ This app simulate a restaurant computer "order machine", it was created entirely
 
 Library: tkinder
 
-![imagen](https://github.com/user-attachments/assets/59fa60a9-828c-43a4-a275-a109a6b60ba5)
+
+[GestorRestaurante.webm](https://github.com/user-attachments/assets/6298284b-82ab-4463-b2b9-0960d4cf60f4)
+
